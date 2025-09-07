@@ -1,29 +1,28 @@
-🧠 Voice-Activated AI Personal Assistant (Under Development)
+Voice-Activated AI Personal Assistant (Under Development)
 ------------------------------------------------------------------
 Welcome to the Voice-Activated AI Personal Assistant – a lightweight assistant designed to interact through voice commands and help with simple, everyday tasks using natural language.
 
-🚧 Status: In Development
+Status: In Development
 -----------------------------
 This project is currently under development. Core voice recognition and response functionalities are being built and optimized for reliability and responsiveness.
 
-🎯 Features
+Features
 ---------------
 This assistant is capable of the following:
 
-🎤 Voice Command Interaction – Talk to your assistant using your microphone.
+Voice Command Interaction – Talk to your assistant using your microphone.
 
-🌐 Open Web Browsers – Launch specific websites via voice commands.
+Open Web Browsers – Launch specific websites via voice commands.
 
-📚 Search Word Meanings – Retrieve word definitions using online sources.
+Search Word Meanings – Retrieve word definitions using online sources.
 
-🗓️ Get Today’s Date – Ask the assistant for the current date.
+Get Today’s Date – Ask the assistant for the current date.
 
-🕒 Tell the Current Time – Get the current time instantly.
+Tell the Current Time – Get the current time instantly.
 
-📖 Wikipedia Integration – Fetch quick summaries and facts from Wikipedia.
+Wikipedia Integration – Fetch quick summaries and facts from Wikipedia.
 
-🛠️ Built With
-Python
+Built With Python
 -------------------------
 SpeechRecognition – For capturing voice input
 
@@ -35,7 +34,7 @@ wikipedia – For fetching summaries and facts
 
 datetime – For current date and time
 
-🧪 Development Progress
+Development Progress
 -------------------------
  Voice recognition setup
 
@@ -51,7 +50,7 @@ datetime – For current date and time
 
  Background listening with low resource usage
 
-🚀 Getting Started
+Getting Started
 ----------------------
 Install dependencies with pip install -r requirements.txt
 
