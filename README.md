@@ -54,6 +54,6 @@ Getting Started
 ----------------------
 Install dependencies with pip install -r requirements.txt
 
-Run python assistant.py
+Run python code.py
 
 Speak into your microphone and let the assistant handle the rest!
