@@ -1,4 +1,4 @@
-Voice-Activated AI Personal Assistant (Under Development)
+Voice-Activated AI Personal Assistant
 ------------------------------------------------------------------
 Welcome to the Voice-Activated AI Personal Assistant – a lightweight assistant designed to interact through voice commands and help with simple, everyday tasks using natural language.
 
